@@ -1,0 +1,84 @@
+header {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+section {
+   border: 1px solid black;
+
+
+}
+h3 {
+    text-align: center;
+}
+.ban2 {
+    align-items: center;
+    display: flex;
+    padding-bottom: 40px;
+}
+.ban3 {
+    border: 1px solid #FF0000;
+    width: 23%;
+    text-align: center;
+    background-color: #FF0000;
+}
+.ban4 {
+    text-align: center;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    background-color: #000000;
+    width: 23%;
+    color: white;
+}
+.ban5 {
+    border: 1px solid #4fe0b0;
+    background-color: #4fe0b0;
+    width: 23%;
+    text-align: center;
+}
+.ban6{
+    border: 1px solid #FFA500;
+    background-color: #FFA500;
+    width: 23%;
+    text-align: center;
+}
+.ban7 {
+    display: flex;
+    text-align: center;
+}
+
+.ban8 {
+    padding-left: 45%;
+    font-family: merriweather;
+}
+.ban8 h4 {
+    text-decoration: underline;
+}
+
+.ban9{
+font-weight: bold;
+}
+.ban10 {
+    padding-left: 45%;
+    font-family: sans-serif;
+
+}
+.ban10 h4 {
+    text-decoration: underline;
+}
+.ban11 {
+    font-weight: bold;
+}
+.ban12 h1 {
+    font-size: 40px;
+}
+.ban12 {
+    text-align: center;
+}
+.ban12 h2 {
+    font-size: 30px;
+}
+.ban12 p {
+    font-weight: bold;
+    font-size: 20px;
+}
